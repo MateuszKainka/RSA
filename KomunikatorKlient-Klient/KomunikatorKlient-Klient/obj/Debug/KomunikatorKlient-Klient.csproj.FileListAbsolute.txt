@@ -1,0 +1,13 @@
+c:\users\laura\documents\visual studio 2013\Projects\KomunikatorKlient-Klient\KomunikatorKlient-Klient\bin\Debug\KomunikatorKlient-Klient.exe.config
+c:\users\laura\documents\visual studio 2013\Projects\KomunikatorKlient-Klient\KomunikatorKlient-Klient\bin\Debug\KomunikatorKlient-Klient.exe
+c:\users\laura\documents\visual studio 2013\Projects\KomunikatorKlient-Klient\KomunikatorKlient-Klient\bin\Debug\KomunikatorKlient-Klient.pdb
+c:\users\laura\documents\visual studio 2013\Projects\KomunikatorKlient-Klient\KomunikatorKlient-Klient\obj\Debug\KomunikatorKlient-Klient.csprojResolveAssemblyReference.cache
+c:\users\laura\documents\visual studio 2013\Projects\KomunikatorKlient-Klient\KomunikatorKlient-Klient\obj\Debug\KomunikatorKlient_Klient.Form1.resources
+c:\users\laura\documents\visual studio 2013\Projects\KomunikatorKlient-Klient\KomunikatorKlient-Klient\obj\Debug\KomunikatorKlient_Klient.Properties.Resources.resources
+c:\users\laura\documents\visual studio 2013\Projects\KomunikatorKlient-Klient\KomunikatorKlient-Klient\obj\Debug\KomunikatorKlient-Klient.csproj.GenerateResource.Cache
+c:\users\laura\documents\visual studio 2013\Projects\KomunikatorKlient-Klient\KomunikatorKlient-Klient\obj\Debug\KomunikatorKlient-Klient.exe
+c:\users\laura\documents\visual studio 2013\Projects\KomunikatorKlient-Klient\KomunikatorKlient-Klient\obj\Debug\KomunikatorKlient-Klient.pdb
+c:\users\laura\documents\visual studio 2013\Projects\KomunikatorKlient-Klient\KomunikatorKlient-Klient\obj\Debug\KomunikatorKlient_Klient.Form2.resources
+c:\users\laura\documents\visual studio 2013\Projects\KomunikatorKlient-Klient\KomunikatorKlient-Klient\obj\Debug\KomunikatorKlient_Klient.Form3.resources
+C:\Users\Laura\documents\visual studio 2013\Projects\KomunikatorKlient-Klient\KomunikatorKlient-Klient\obj\Debug\KomunikatorKlient_Klient.Form4.resources
+C:\Users\Laura\documents\visual studio 2013\Projects\KomunikatorKlient-Klient\KomunikatorKlient-Klient\obj\Debug\KomunikatorKlient_Klient.Form5.resources
